@@ -13,7 +13,6 @@ export default class Search extends Component {
 
         <div className="Search__content">
           <input 
-          onChange={() => }
           placeholder="Search Your Feed" />
 
           <SearchIcon id="Search__icon" />
